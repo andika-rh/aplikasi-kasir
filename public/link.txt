@@ -1,0 +1,6 @@
+footer
+header line 40
+login line 89
+
+link github :
+https://github.com/andika-rh/aplikasi-kasir.git
